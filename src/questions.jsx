@@ -1,11 +1,11 @@
-import cinSeddi from '../assets/cin-seddi.jpg';
+
 
 export const questions = [
   {
     question: "Çin Seddini oluşturan taşlar birbirine ne ile tutturulmuştur?",
     options: ["Bambu Harcı", "Anne Duası", "Pirinç Unu", "Noodle"],
     answer: "Pirinç Unu",
-    media: cinSeddi,
+    media: './src/assets/cin-seddi.jpg',
   },
   {
     question: "İlk Pamuk şekeri bulan kişinin mesleği nedir?",
