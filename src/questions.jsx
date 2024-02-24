@@ -1,4 +1,4 @@
-import cinSeddi from './src/assets/cin-seddi.jpg'
+import cinSeddi from '../assets/cin-seddi.jpg';
 
 export const questions = [
   {
