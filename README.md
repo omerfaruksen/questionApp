@@ -1,5 +1,5 @@
 # Question App
-Bu proje <strong> React + Vite </strong> kullanılarak hazırlanmıştır. Projenin canlı görünümü için <strong> Netlify </strong> kullanılmıştır. Canlı görünüm için linke tıklayabilirisiniz.
+Bu proje <strong> React  Vite HTML CSS </strong> kullanılarak hazırlanmıştır. Projenin canlı görünümü için <strong> Netlify </strong> kullanılmıştır. Canlı görünüm için linke tıklayabilirisiniz.
 <br>
 <strong>https://flourishing-dolphin-1c37e1.netlify.app/ </strong>
 <br>
