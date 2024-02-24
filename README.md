@@ -1,8 +1,7 @@
-# React + Vite
-
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+# Question App
+Bu proje <strong> React + Vite </strong> kullanılarak hazırlanmıştır. Projenin canlı görünümü için <strong> Netlify </strong> kullanılmıştır. Canlı görünüm için linke tıklayabilirisiniz.
+https://flourishing-dolphin-1c37e1.netlify.app/
+Bu uygulama 10 soruluk bir testten oluşmakta ve bir teste başlama butonu içermektedir.
+Her sorunun ekranda kalma süresi 30 saniyedir ve cevap şıkları soru ekrana yansıdıktan 10 saniye sonra ekrana düşmektedir.
+Eğer bir soruya 30 saniye içerisinde cevap verilmezse otomatik olarak bir sonraki soruya geçilmektedir.
+Test sonunda testi bitir butonuna tıklanıldığında sorular, soruların cevapları ve kullanıcının verdiği cevaplar ile birlikte doğru ve yanlış cevapların sayısıda görünmektedir.
